@@ -1,0 +1,17 @@
+{
+	"java.project.sourcePaths": [
+		"src"
+	],
+	"java.project.outputPath": "bin",
+	"java.project.referencedLibraries": [
+		"lib/**/*.jar",
+		"c:/Users/cnbra/Documents/Programs/java/JavaFX/lib/javafx.base.jar",
+		"c:/Users/cnbra/Documents/Programs/java/JavaFX/lib/javafx.controls.jar",
+		"c:/Users/cnbra/Documents/Programs/java/JavaFX/lib/javafx.fxml.jar",
+		"c:/Users/cnbra/Documents/Programs/java/JavaFX/lib/javafx.graphics.jar",
+		"c:/Users/cnbra/Documents/Programs/java/JavaFX/lib/javafx.media.jar",
+		"c:/Users/cnbra/Documents/Programs/java/JavaFX/lib/javafx.swing.jar",
+		"c:/Users/cnbra/Documents/Programs/java/JavaFX/lib/javafx.web.jar",
+		"c:/Users/cnbra/Documents/Programs/java/JavaFX/lib/javafx-swt.ja"
+	]
+}
