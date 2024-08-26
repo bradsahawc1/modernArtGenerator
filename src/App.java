@@ -106,8 +106,8 @@ public class App extends Application {
         });
 
         Slider  speed = new Slider();
-        speed.setMin(10);
-        speed.setMax(100);
+        speed.setMin(1);
+        speed.setMax(10);
         speed.valueProperty().addListener(ov ->
                 animation.setRate(speed.getValue()));
 
