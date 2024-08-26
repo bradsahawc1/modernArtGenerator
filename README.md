@@ -1,7 +1,4 @@
-## Introdução
+This was an assignment that made use of the JavaFX packages to make an application that creates "modern" art.
 
-Seja bem vindo!
-Se você curtiu a extensão, não esqueça de deixar uma avaliação!
-
-Siga o canal no YouTube:
-- Academia dos Devs
+Developer note, if you download this application you will need the javaFX packages which can be found here:
+https://openjfx.io
